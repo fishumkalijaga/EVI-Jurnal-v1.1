@@ -1,0 +1,1164 @@
+{
+  "items": [
+    {
+      "code": "A.1",
+      "group": "A",
+      "name": "Konsistensi Identitas Jurnal Ilmiah",
+      "choices": [
+        {
+          "key": "a",
+          "score": 2.0,
+          "description": "Unik dan/atau spesifik sehingga mencerminkan super spesialisasi atau spesialisasi disiplin ilmu tertentu; identitas jurnal konsisten pada laman jurnal, metadata artikel, dan judul sirahan galley PDF."
+        },
+        {
+          "key": "b",
+          "score": 1.0,
+          "description": "Kurang unik dan/atau kurang spesifik serta berkaitan dengan bidang ilmu yang meluas; identitas jurnal kurang konsisten pada laman jurnal, metadata artikel, dan judul sirahan galley PDF."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Tidak unik, serupa dengan jurnal lain, dan/atau mengandung nama lembaga/institusi lokal dan/atau tidak sesuai dengan nama yang terdaftar di ISSN."
+        }
+      ]
+    },
+    {
+      "code": "B.1",
+      "group": "B",
+      "name": "Komposisi, Rekam Jejak Publikasi, dan Keberagaman Asal Mitra Bestari/Peer-Reviewer",
+      "choices": [
+        {
+          "key": "a",
+          "score": 6.0,
+          "description": "Melibatkan secara aktif Mitra Bestari/Peer-Reviewer yang mempunyai rekam jejak publikasi internasional 3 tahun terakhir, berasal dari 5 negara atau lebih, dan setiap naskah ditelaah minimal 3 orang serta disertai bukti telaah."
+        },
+        {
+          "key": "b",
+          "score": 4.0,
+          "description": "Melibatkan secara aktif Mitra Bestari/Peer-Reviewer yang mempunyai rekam jejak publikasi internasional 3 tahun terakhir, berasal minimal dari 6 institusi di 3 negara, dan setiap naskah ditelaah minimal 3 orang serta disertai bukti telaah."
+        },
+        {
+          "key": "c",
+          "score": 2.0,
+          "description": "Melibatkan secara aktif Mitra Bestari/Peer-Reviewer yang mempunyai rekam jejak publikasi nasional 3 tahun terakhir, berasal minimal dari 5 institusi, dan setiap naskah ditelaah minimal 2 orang serta disertai bukti telaah."
+        },
+        {
+          "key": "d",
+          "score": 1.0,
+          "description": "Melibatkan secara aktif Mitra Bestari/Peer-Reviewer yang mempunyai rekam jejak publikasi minimal nasional 3 tahun terakhir dan berasal dari institusi internal jurnal; setiap naskah ditelaah minimal 2 orang serta disertai bukti telaah."
+        },
+        {
+          "key": "e",
+          "score": 0.0,
+          "description": "Tidak melibatkan Mitra Bestari/Peer-Reviewer secara aktif dalam proses penelaahan naskah dan/atau tidak dapat menunjukkan bukti telaah substantif atas artikel yang diterbitkan."
+        }
+      ]
+    },
+    {
+      "code": "B.2",
+      "group": "B",
+      "name": "Mutu Penyuntingan Substansi oleh Mitra Bestari/Peer-Reviewer",
+      "choices": [
+        {
+          "key": "a",
+          "score": 4.0,
+          "description": "Mutu penyuntingan artikel baik sekali. Mitra Bestari secara ketat menilai manuskrip, memberikan catatan dan saran perbaikan secara substantif dan signifikan sehingga mutu isi artikel terjaga (3 tahun terakhir)."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "Mutu penyuntingan artikel kurang baik. Mitra Bestari kurang memberikan catatan saran perbaikan secara substantif dan tidak signifikan (3 tahun terakhir)."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Mutu penyuntingan artikel tidak baik. Mitra Bestari hanya memberikan catatan terkait tata bahasa dan tata letak (layout) (3 tahun terakhir)."
+        }
+      ]
+    },
+    {
+      "code": "B.3",
+      "group": "B",
+      "name": "Pelibatan, Komposisi, Rekam Jejak Publikasi, dan Keberagaman Asal Tim Penyunting/Tim Editor/Editorial Board",
+      "choices": [
+        {
+          "key": "a",
+          "score": 5.0,
+          "description": "Melibatkan secara aktif Tim Penyunting/Tim Editor/Editorial Board, mempunyai rekam jejak publikasi internasional 3 tahun terakhir, berasal dari 5 atau lebih negara, dan disertai bukti aktivitasnya."
+        },
+        {
+          "key": "b",
+          "score": 3.0,
+          "description": "Melibatkan secara aktif Tim Penyunting/Tim Editor/Editorial Board, mempunyai rekam jejak publikasi internasional 3 tahun terakhir, berasal minimal dari 2 negara atau 6 institusi, dan disertai bukti aktivitasnya."
+        },
+        {
+          "key": "c",
+          "score": 2.0,
+          "description": "Melibatkan secara aktif Tim Penyunting/Tim Editor/Editorial Board, mempunyai rekam jejak publikasi nasional 3 tahun terakhir, berasal minimal dari 4 institusi, dan disertai bukti aktivitasnya."
+        },
+        {
+          "key": "d",
+          "score": 1.0,
+          "description": "Melibatkan secara aktif Tim Penyunting/Tim Editor/Editorial Board, mempunyai rekam jejak publikasi nasional 3 tahun terakhir, berasal dari 2 institusi, dan disertai bukti aktivitasnya."
+        }
+      ]
+    },
+    {
+      "code": "B.4",
+      "group": "B",
+      "name": "Keberagaman Asal Penulis",
+      "choices": [
+        {
+          "key": "a",
+          "score": 6.0,
+          "description": "Keberagaman asal penulis dari 5 negara atau lebih (per nomor terbitan dalam 3 tahun terakhir)."
+        },
+        {
+          "key": "b",
+          "score": 4.0,
+          "description": "Keberagaman asal penulis minimal dari 2 negara atau 8 institusi (per nomor terbitan dalam 3 tahun terakhir)."
+        },
+        {
+          "key": "c",
+          "score": 2.0,
+          "description": "Keberagaman asal penulis minimal dari 4 institusi (per nomor terbitan dalam 3 tahun terakhir)."
+        },
+        {
+          "key": "d",
+          "score": 1.0,
+          "description": "Keberagaman asal penulis minimal dari 2 institusi (per nomor terbitan dalam 3 tahun terakhir)."
+        },
+        {
+          "key": "e",
+          "score": 0.0,
+          "description": "Keberagaman asal penulis hanya dari 1 institusi (per nomor terbitan dalam 3 tahun terakhir)."
+        }
+      ]
+    },
+    {
+      "code": "B.5",
+      "group": "B",
+      "name": "Pengelolaan Artikel Jurnal Ilmiah",
+      "choices": [
+        {
+          "key": "a",
+          "score": 1.0,
+          "description": "Menggunakan pengelolaan penyuntingan artikel secara sistem manajemen jurnal daring."
+        },
+        {
+          "key": "b",
+          "score": 0.5,
+          "description": "Menggunakan pengelolaan penyuntingan artikel secara kombinasi antara sistem manajemen jurnal daring dan surat elektronik."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Menggunakan pengelolaan penyuntingan artikel melalui surat elektronik saja."
+        }
+      ]
+    },
+    {
+      "code": "C.1",
+      "group": "C",
+      "name": "Kejelasan Kebijakan Proses Penelaahan (Peer-review Process Policy)",
+      "choices": [
+        {
+          "key": "a",
+          "score": 2.0,
+          "description": "Kebijakan proses penelaahan menjelaskan secara jelas semua proses peer-review naskah."
+        },
+        {
+          "key": "b",
+          "score": 1.0,
+          "description": "Kebijakan proses penelaahan menjelaskan secara jelas sebagian proses peer-review naskah."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Kebijakan proses penelaahan tidak tersedia atau tersedia tetapi tidak menjelaskan prinsip dasar proses peer-review naskah."
+        }
+      ]
+    },
+    {
+      "code": "C.2",
+      "group": "C",
+      "name": "Kejelasan Petunjuk Penulisan bagi Penulis",
+      "choices": [
+        {
+          "key": "a",
+          "score": 1.0,
+          "description": "Petunjuk penulisan terinci, lengkap, jelas secara substantif dan sistematis, tersedia di laman jurnal maupun di dalam template artikel, serta tersedia contoh template format artikel."
+        },
+        {
+          "key": "b",
+          "score": 0.5,
+          "description": "Petunjuk penulisan terinci, lengkap, dan jelas secara substantif/sistematis di laman jurnal, namun tidak tersedia contoh template format artikel."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Petunjuk penulisan kurang lengkap dan/atau kurang jelas di versi laman jurnal maupun di tempat artikel, atau ada template tetapi tidak ada petunjuk penulisan."
+        }
+      ]
+    },
+    {
+      "code": "C.3",
+      "group": "C",
+      "name": "Kejelasan Penggunaan Kecerdasan Artifisial",
+      "choices": [
+        {
+          "key": "a",
+          "score": 1.0,
+          "description": "Memiliki kebijakan penggunaan AI yang mengatur kewajiban pengungkapan oleh Penulis, batasan penggunaan oleh Tim Editor, dan larangan penggunaan AI oleh Mitra Bestari dalam proses penelaahan naskah."
+        },
+        {
+          "key": "b",
+          "score": 0.5,
+          "description": "Kebijakan tersedia, tetapi belum lengkap karena hanya mengatur sebagian ketentuan penggunaan AI."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Kebijakan tidak tersedia pada laman jurnal atau hanya berupa pernyataan umum yang tidak memberikan ketentuan penggunaan AI secara jelas."
+        }
+      ]
+    },
+    {
+      "code": "C.4",
+      "group": "C",
+      "name": "Kelengkapan Laman Jurnal Ilmiah",
+      "choices": [
+        {
+          "key": "a",
+          "score": 3.0,
+          "description": "Unsur-unsur kelengkapan laman jurnal sepenuhnya sesuai (100%) dengan COPE Principles of Transparency and Best Practice in Scholarly Publishing."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "Unsur-unsur kelengkapan laman jurnal ilmiah sebagian besar sesuai (lebih dari atau sama dengan 75% dan kurang dari 100%) dengan COPE Principles of Transparency and Best Practice in Scholarly Publishing."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Unsur-unsur kelengkapan laman jurnal ilmiah sebagian sesuai (lebih dari atau sama dengan 50% dan kurang dari 75%) dengan COPE Principles of Transparency and Best Practice in Scholarly Publishing."
+        },
+        {
+          "key": "d",
+          "score": 0.0,
+          "description": "Unsur-unsur kelengkapan laman jurnal ilmiah kurang sesuai (kurang dari 50%) dengan COPE Principles of Transparency and Best Practice in Scholarly Publishing."
+        }
+      ]
+    },
+    {
+      "code": "D.1",
+      "group": "D",
+      "name": "Jadwal Penerbitan",
+      "choices": [
+        {
+          "key": "a",
+          "score": 2.0,
+          "description": "Menerapkan sistem prapublikasi seperti Article in Press dan/atau Issue in Progress, serta seluruh terbitan sesuai dengan periode yang ditentukan (3 tahun terakhir)."
+        },
+        {
+          "key": "b",
+          "score": 1.5,
+          "description": "Lebih dari 75% terbitan sesuai dengan periode yang ditentukan (3 tahun terakhir)."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Lebih dari 25% sampai dengan 75% terbitan sesuai dengan periode yang ditentukan (3 tahun terakhir)."
+        },
+        {
+          "key": "d",
+          "score": 0.5,
+          "description": "Kurang dari atau sama dengan 25% terbitan sesuai dengan periode yang ditentukan (3 tahun terakhir)."
+        },
+        {
+          "key": "e",
+          "score": 0.0,
+          "description": "Mengganti konsep penerbitan abstract only dan/atau menyisipkan artikel pada nomor terbitan sebelumnya (back issue)."
+        }
+      ]
+    },
+    {
+      "code": "D.2",
+      "group": "D",
+      "name": "Sistem Penomoran Volume, Nomor Terbitan, Nomor Halaman/Identitas Artikel",
+      "choices": [
+        {
+          "key": "a",
+          "score": 1.0,
+          "description": "Penomoran volume, terbitan, dan halaman artikel bersistem baik dan konsisten (3 tahun terakhir)."
+        },
+        {
+          "key": "b",
+          "score": 0.5,
+          "description": "Penomoran volume, terbitan, dan halaman artikel bersistem cukup baik dan/atau cukup konsisten (3 tahun terakhir)."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Penomoran volume, terbitan, dan halaman artikel bersistem kurang baik dan/atau kurang konsisten (3 tahun terakhir)."
+        }
+      ]
+    },
+    {
+      "code": "E.1",
+      "group": "E",
+      "name": "Dampak Ilmiah (Jumlah Sitasi)",
+      "choices": [
+        {
+          "key": "a",
+          "score": 6.0,
+          "description": "Jumlah sitasi 3 tahun terakhir lebih dari 25 berdasarkan basis data pengindeks bereputasi internasional dan/atau lebih dari 75 sitasi berdasarkan basis data DOI."
+        },
+        {
+          "key": "b",
+          "score": 4.0,
+          "description": "Jumlah sitasi 3 tahun terakhir 20–25 berdasarkan basis data pengindeks bereputasi internasional dan/atau 31–75 sitasi berdasarkan basis data DOI."
+        },
+        {
+          "key": "c",
+          "score": 3.0,
+          "description": "Jumlah sitasi 3 tahun terakhir 10–19 berdasarkan basis data pengindeks bereputasi internasional dan/atau 11–30 sitasi berdasarkan basis data DOI."
+        },
+        {
+          "key": "d",
+          "score": 2.0,
+          "description": "Jumlah sitasi 3 tahun terakhir 5–9 berdasarkan basis data pengindeks bereputasi internasional dan/atau 5–10 sitasi berdasarkan basis data DOI."
+        },
+        {
+          "key": "e",
+          "score": 1.0,
+          "description": "Jumlah sitasi 3 tahun terakhir kurang dari 5 berdasarkan basis data pengindeks bereputasi internasional dan/atau kurang dari 5 sitasi berdasarkan basis data DOI."
+        },
+        {
+          "key": "f",
+          "score": 0.0,
+          "description": "Jumlah sitasi dalam 3 tahun terakhir tidak dapat diverifikasi secara memadai."
+        }
+      ]
+    },
+    {
+      "code": "E.2",
+      "group": "E",
+      "name": "Visibilitas Jurnal Ilmiah",
+      "choices": [
+        {
+          "key": "a",
+          "score": 6.0,
+          "description": "Tercantum dan metadata terindeks di lembaga pengindeks bereputasi internasional."
+        },
+        {
+          "key": "b",
+          "score": 4.0,
+          "description": "Tercantum tetapi metadata belum terindeks di lembaga pengindeks bereputasi internasional."
+        },
+        {
+          "key": "c",
+          "score": 3.0,
+          "description": "Tercantum dan metadata terindeks di lembaga pengindeks internasional/nasional bersistem seleksi."
+        },
+        {
+          "key": "d",
+          "score": 2.0,
+          "description": "Tercantum tetapi metadata belum terindeks di lembaga pengindeks internasional/nasional bersistem seleksi."
+        },
+        {
+          "key": "e",
+          "score": 1.0,
+          "description": "Tercantum dan metadata terindeks di lembaga pengindeks internasional/nasional tidak bersistem seleksi."
+        }
+      ]
+    },
+    {
+      "code": "F.1",
+      "group": "F",
+      "name": "Judul Artikel",
+      "choices": [
+        {
+          "key": "a",
+          "score": 2.0,
+          "description": "Lugas dan memuat informasi temuan penting."
+        },
+        {
+          "key": "b",
+          "score": 1.0,
+          "description": "Lugas tetapi kurang memuat informasi temuan penting."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Tidak lugas dan tidak memuat informasi temuan penting."
+        }
+      ]
+    },
+    {
+      "code": "F.2",
+      "group": "F",
+      "name": "Abstrak",
+      "choices": [
+        {
+          "key": "a",
+          "score": 3.0,
+          "description": "Abstrak jelas dan ringkas dalam Bahasa Inggris, atau Bahasa Inggris dan Bahasa Indonesia."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "Abstrak kurang jelas dan kurang ringkas dalam Bahasa Inggris, atau Bahasa Inggris dan Bahasa Indonesia."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Abstrak tidak jelas."
+        }
+      ]
+    },
+    {
+      "code": "F.3",
+      "group": "F",
+      "name": "Kata Kunci",
+      "choices": [
+        {
+          "key": "a",
+          "score": 1.0,
+          "description": "Memuat kata kunci yang mencerminkan konsep penting isi artikel dan memudahkan pencarian oleh mesin pencari."
+        },
+        {
+          "key": "b",
+          "score": 0.5,
+          "description": "Memuat kata kunci tetapi kurang mencerminkan konsep penting isi artikel."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Tidak memuat kata kunci."
+        }
+      ]
+    },
+    {
+      "code": "F.4",
+      "group": "F",
+      "name": "Kepioniran Ilmiah / Orisinalitas / Kontribusi Kebaruan / Analisis Kesenjangan",
+      "choices": [
+        {
+          "key": "a",
+          "score": 7.0,
+          "description": "Memuat artikel yang berisi karya orisinal dan memberikan kontribusi kebaruan ilmiah sangat tinggi (lengkap memuat state of the art overview riset sebelumnya, justifikasi kontribusi kebaruan/analisis kesenjangan, dan tujuan riset)."
+        },
+        {
+          "key": "b",
+          "score": 5.0,
+          "description": "Memuat artikel yang berisi karya orisinal dan memberikan kontribusi kebaruan ilmiah tinggi (terdapat paling tidak dua dari: state of the art overview, justifikasi kontribusi kebaruan/analisis kesenjangan, tujuan riset)."
+        },
+        {
+          "key": "c",
+          "score": 3.0,
+          "description": "Memuat artikel yang berisi karya orisinal dan memberikan kontribusi kebaruan ilmiah cukup (terdapat salah satu dari: state of the art overview, justifikasi kontribusi kebaruan/analisis kesenjangan, tujuan riset)."
+        },
+        {
+          "key": "d",
+          "score": 1.0,
+          "description": "Memuat artikel yang berisi karya kurang orisinal dan kurang memberikan kontribusi kebaruan ilmiah atau tidak ada informasi analisis kesenjangan."
+        }
+      ]
+    },
+    {
+      "code": "F.5",
+      "group": "F",
+      "name": "Analisis dan Sintesis",
+      "choices": [
+        {
+          "key": "a",
+          "score": 8.0,
+          "description": "Sangat baik dan sangat mendalam; mencakup empat aspek: metode penelitian, deskripsi temuan penting, kedalaman interpretasi pembahasan, dan pembandingan hasil temuan dengan periset lainnya — disesuaikan dengan kekhasan bidang keilmuan."
+        },
+        {
+          "key": "b",
+          "score": 6.0,
+          "description": "Baik dan mendalam; satu dari empat aspek tersebut tidak ditemukan."
+        },
+        {
+          "key": "c",
+          "score": 4.0,
+          "description": "Kurang baik dan kurang mendalam; dua dari empat aspek tersebut tidak ditemukan."
+        },
+        {
+          "key": "d",
+          "score": 1.0,
+          "description": "Tidak baik dan tidak mendalam; tiga dari empat aspek tersebut tidak ditemukan."
+        }
+      ]
+    },
+    {
+      "code": "F.6",
+      "group": "F",
+      "name": "Penyimpulan",
+      "choices": [
+        {
+          "key": "a",
+          "score": 5.0,
+          "description": "Sangat baik dan menjawab tujuan dan/atau memuat implikasi hasil riset."
+        },
+        {
+          "key": "b",
+          "score": 3.0,
+          "description": "Cukup baik dan cukup menjawab tujuan dan/atau memuat implikasi hasil riset."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Kurang baik dan kurang menjawab tujuan riset."
+        }
+      ]
+    },
+    {
+      "code": "F.7",
+      "group": "F",
+      "name": "Nisbah Sumber Acuan Primer Berbanding Sumber Lainnya",
+      "choices": [
+        {
+          "key": "a",
+          "score": 3.0,
+          "description": "Lebih dari 80% dari jumlah daftar rujukan, dengan jumlah rujukan minimal 15."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "40–80% dari jumlah daftar rujukan, dengan jumlah rujukan minimal 15."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Kurang dari 40% dari jumlah daftar rujukan, dengan jumlah rujukan minimal 15."
+        },
+        {
+          "key": "d",
+          "score": 0.5,
+          "description": "Jumlah rujukan kurang dari 15."
+        }
+      ]
+    },
+    {
+      "code": "F.8",
+      "group": "F",
+      "name": "Derajat Kemutakhiran Pustaka Acuan",
+      "choices": [
+        {
+          "key": "a",
+          "score": 3.0,
+          "description": "Lebih dari 80% dari jumlah daftar rujukan mutakhir."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "40–80% dari jumlah daftar rujukan mutakhir."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Kurang dari 40% dari jumlah daftar rujukan mutakhir."
+        }
+      ]
+    },
+    {
+      "code": "F.9",
+      "group": "F",
+      "name": "Cakupan Keilmuan",
+      "choices": [
+        {
+          "key": "a",
+          "score": 2.0,
+          "description": "Proporsi artikel yang sesuai dengan fokus dan skop jurnal mencakup seluruh artikel (100%)."
+        },
+        {
+          "key": "b",
+          "score": 1.5,
+          "description": "Proporsi artikel yang sesuai dengan fokus dan skop jurnal mencakup sekurang-kurangnya 90% dan kurang dari 100%."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Proporsi artikel yang sesuai dengan fokus dan skop jurnal mencakup sekurang-kurangnya 80% dan kurang dari 90%."
+        },
+        {
+          "key": "d",
+          "score": 0.5,
+          "description": "Proporsi artikel yang sesuai dengan fokus dan skop jurnal mencakup kurang dari 80%."
+        }
+      ]
+    },
+    {
+      "code": "G.1",
+      "group": "G",
+      "name": "Kelengkapan Galley/PDF Artikel yang Diterbitkan",
+      "choices": [
+        {
+          "key": "a",
+          "score": 3.0,
+          "description": "Sangat lengkap: memenuhi 8 atau 9 unsur kelengkapan galley."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "Cukup lengkap: memenuhi 6 atau 7 unsur kelengkapan galley."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Kurang lengkap: memenuhi 4 atau 5 unsur kelengkapan galley."
+        },
+        {
+          "key": "d",
+          "score": 0.5,
+          "description": "Tidak lengkap: tidak tersedia atau memenuhi 1 sampai dengan 3 dari 9 unsur kelengkapan galley."
+        }
+      ]
+    },
+    {
+      "code": "G.2",
+      "group": "G",
+      "name": "Pencantuman Nama Penulis dan Afiliasi Penulis",
+      "choices": [
+        {
+          "key": "a",
+          "score": 1.0,
+          "description": "Lengkap, benar, dan konsisten antar artikel."
+        },
+        {
+          "key": "b",
+          "score": 0.5,
+          "description": "Lengkap dan benar, tetapi tidak konsisten antar artikel."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Tidak lengkap dan tidak konsisten."
+        }
+      ]
+    },
+    {
+      "code": "G.3",
+      "group": "G",
+      "name": "Sistematika Penulisan Artikel",
+      "choices": [
+        {
+          "key": "a",
+          "score": 2.0,
+          "description": "Lengkap, bersistem baik, dan konsisten antar artikel dan antar terbitan."
+        },
+        {
+          "key": "b",
+          "score": 1.0,
+          "description": "Lengkap, bersistem baik, tetapi tidak konsisten antar artikel atau antar terbitan."
+        },
+        {
+          "key": "c",
+          "score": 0.5,
+          "description": "Kurang lengkap, kurang bersistem baik, tetapi konsisten antar artikel dan antar terbitan."
+        },
+        {
+          "key": "d",
+          "score": 0.0,
+          "description": "Kurang lengkap, kurang bersistem baik dan tidak konsisten antar artikel dan antar terbitan."
+        }
+      ]
+    },
+    {
+      "code": "G.4",
+      "group": "G",
+      "name": "Pemanfaatan Instrumen Pendukung",
+      "choices": [
+        {
+          "key": "a",
+          "score": 4.0,
+          "description": "Pemanfaatan instrumen pendukung efektif dan komplementer."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "Pemanfaatan instrumen pendukung cukup efektif dan cukup komplementer."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Pemanfaatan instrumen pendukung tidak efektif dan tidak komplementer."
+        }
+      ]
+    },
+    {
+      "code": "G.5",
+      "group": "G",
+      "name": "Sistem Pengacuan Pustaka di dalam Artikel dan Konsistensi Penulisan Daftar Pustaka",
+      "choices": [
+        {
+          "key": "a",
+          "score": 3.0,
+          "description": "Sistem pengacuan pustaka di dalam artikel baku (sesuai Petunjuk Penulisan untuk Penulis) dan konsisten penulisannya antar artikel (tingkat kesesuaian 100%)."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "Sistem pengacuan pustaka di dalam artikel cukup baku dan cukup konsisten (tingkat kesesuaian antara 75% sampai dengan kurang dari 100%)."
+        },
+        {
+          "key": "c",
+          "score": 0.0,
+          "description": "Sistem pengacuan pustaka di dalam artikel tidak baku dan penulisannya tidak konsisten (tingkat kesesuaian kurang dari 75%)."
+        }
+      ]
+    },
+    {
+      "code": "G.6",
+      "group": "G",
+      "name": "Penggunaan Istilah dan Kualitas Kebahasaan",
+      "choices": [
+        {
+          "key": "a",
+          "score": 4.0,
+          "description": "Semua (100%) artikel menggunakan istilah baku, dan kualitas kebahasaan baik dan benar."
+        },
+        {
+          "key": "b",
+          "score": 3.0,
+          "description": "Sebagian besar (75% sampai kurang dari 100%) artikel menggunakan istilah baku, dan kualitas kebahasaan baik dan benar."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Sebagian (50% sampai kurang dari 75%) artikel menggunakan istilah baku, namun kebahasaan belum memenuhi kualitas kebahasaan yang baik dan benar; atau sebaliknya."
+        },
+        {
+          "key": "d",
+          "score": 0.0,
+          "description": "Sebagian besar artikel berbahasa yang kurang baik dan kurang benar."
+        }
+      ]
+    },
+    {
+      "code": "G.7",
+      "group": "G",
+      "name": "Mutu Penyuntingan Substansi, Gaya Selingkung, dan Format Tata Letak",
+      "choices": [
+        {
+          "key": "a",
+          "score": 3.0,
+          "description": "Mutu penyuntingan substansi, gaya selingkung, dan format tata letak (layout) artikel sesuai standar artikel ilmiah dan konsisten antar artikel."
+        },
+        {
+          "key": "b",
+          "score": 2.0,
+          "description": "Mutu penyuntingan substansi, gaya selingkung, dan format tata letak (layout) artikel sesuai standar artikel ilmiah, namun tidak konsisten antar artikel."
+        },
+        {
+          "key": "c",
+          "score": 1.0,
+          "description": "Mutu penyuntingan substansi, gaya selingkung, dan format tata letak (layout) artikel kurang sesuai standar artikel ilmiah, dan/atau tidak konsisten antar artikel."
+        }
+      ]
+    },
+    {
+      "code": "H.1",
+      "group": "H",
+      "name": "Pelanggaran Integritas Akademik",
+      "choices": [
+        {
+          "key": "a",
+          "score": -20.0,
+          "description": "Terbukti ditemukan memuat lebih dari 3 artikel pada nomor terbitan yang diajukan akreditasi merupakan penyimpangan atau pelanggaran integritas akademik dan tidak ada tindakan koreksi atau retraksi oleh penerbit."
+        },
+        {
+          "key": "b",
+          "score": -15.0,
+          "description": "Terbukti ditemukan memuat 2 sampai dengan 3 artikel pada nomor terbitan yang diajukan akreditasi merupakan penyimpangan atau pelanggaran integritas akademik dan tidak ada tindakan koreksi atau retraksi oleh penerbit."
+        },
+        {
+          "key": "c",
+          "score": -10.0,
+          "description": "Terbukti ditemukan memuat 1 artikel pada nomor terbitan yang diajukan akreditasi merupakan pelanggaran integritas akademik dan tidak ada tindakan koreksi atau retraksi oleh penerbit."
+        },
+        {
+          "key": "d",
+          "score": 0.0,
+          "description": "Tidak ditemukan kondisi pelanggaran pada indikator a–c / tidak dikenai disinsentif."
+        }
+      ]
+    },
+    {
+      "code": "H.2",
+      "group": "H",
+      "name": "Ketersediaan Informasi Dokumen Persetujuan Etik (Ethical Clearance)",
+      "choices": [
+        {
+          "key": "a",
+          "score": -3.0,
+          "description": "Artikel tidak mencantumkan nomor dan tahun diterbitkannya dokumen Ethical Clearance dari komite etik yang relevan atau pernyataan dari penulis tentang kepatuhan pada kelayakan etik, yang disetujui oleh Mitra Bestari dan/atau Tim Editor, pada riset yang melibatkan manusia dan/atau hewan."
+        },
+        {
+          "key": "b",
+          "score": 0.0,
+          "description": "Ketentuan Ethical Clearance terpenuhi / tidak dikenai disinsentif."
+        }
+      ]
+    }
+  ],
+  "initial": [
+    {
+      "name": "Validitas laman jurnal",
+      "category": "Pemeriksaan nama dan laman jurnal"
+    },
+    {
+      "name": "Validitas nama jurnal sesuai ISSN",
+      "category": "Pemeriksaan nama dan laman jurnal"
+    },
+    {
+      "name": "Validitas penerbit jurnal sesuai ISSN",
+      "category": "Pemeriksaan nama dan laman jurnal"
+    },
+    {
+      "name": "Kesesuaian jenis dan waktu usulan",
+      "category": "Pemeriksaan riwayat penerbitan jurnal"
+    },
+    {
+      "name": "Kesesuaian frekuensi terbitan",
+      "category": "Pemeriksaan riwayat penerbitan jurnal"
+    },
+    {
+      "name": "Keberkalaan jurnal tiga tahun terakhir",
+      "category": "Pemeriksaan frekuensi dan keberkalaan"
+    },
+    {
+      "name": "Pencantuman peringkat dan masa berlaku",
+      "category": "Pemeriksaan frekuensi dan keberkalaan"
+    },
+    {
+      "name": "Laman etika publikasi",
+      "category": "Pemeriksaan kelengkapan laman jurnal"
+    },
+    {
+      "name": "Laman biaya pemrosesan artikel",
+      "category": "Pemeriksaan kelengkapan laman jurnal"
+    },
+    {
+      "name": "Ketersediaan pengenal objek digital (DOI) aktif",
+      "category": "Pemeriksaan kelengkapan laman jurnal"
+    },
+    {
+      "name": "Ketersediaan teks penuh pada setiap artikel",
+      "category": "Pemeriksaan kelengkapan laman jurnal"
+    },
+    {
+      "name": "Kecukupan keberagaman afiliasi Tim Editor",
+      "category": "Pemeriksaan keberagaman afiliasi"
+    },
+    {
+      "name": "Kecukupan keberagaman afiliasi Mitra Bestari (reviewer)",
+      "category": "Pemeriksaan keberagaman afiliasi"
+    },
+    {
+      "name": "Validitas username dan password",
+      "category": "Pemeriksaan kredensial"
+    },
+    {
+      "name": "Ketersediaan kredensial/peran Editor",
+      "category": "Pemeriksaan kredensial"
+    }
+  ],
+  "eligibility": [
+    {
+      "name": "Pemeriksaan bahwa setiap artikel yang diterbitkan jurnal telah melalui penelaahan oleh Mitra Bestari.",
+      "category": "Kecukupan Penelaahan Artikel oleh Mitra Bestari"
+    },
+    {
+      "name": "Pemeriksaan rekam jejak dan kepatuhan terhadap etika publikasi, etika penerbitan, serta kepatuhan dan integritas akademik.",
+      "category": "Validitas dan Integritas Penerbit"
+    }
+  ],
+  "pages": [
+    {
+      "name": "e-ISSN dicantumkan pada laman utama",
+      "category": "Identitas dan Informasi Umum Jurnal"
+    },
+    {
+      "name": "e-ISSN ditautkan ke basis data ISSN/Portal ISSN",
+      "category": "Identitas dan Informasi Umum Jurnal"
+    },
+    {
+      "name": "Nama dan identitas penerbit dicantumkan dengan jelas",
+      "category": "Identitas dan Informasi Umum Jurnal"
+    },
+    {
+      "name": "Peringkat Akreditasi dan masa berlakunya dicantumkan, jika telah terakreditasi",
+      "category": "Identitas dan Informasi Umum Jurnal"
+    },
+    {
+      "name": "Teks penuh (full text) setiap artikel dapat diakses",
+      "category": "Identitas dan Informasi Umum Jurnal"
+    },
+    {
+      "name": "Tersedia laman Tim Editor/Editorial Team",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Nama dan afiliasi setiap Editor dicantumkan",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Setiap Editor telah dilengkapi dengan link rekam jejak publikasi",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Seluruh Editor mempunyai kepakaran sesuai scope jurnal",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Tersedia laman Mitra Bestari/Peer Reviewers",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Nama dan afiliasi Mitra Bestari dicantumkan",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Setiap Reviewer telah dilengkapi dengan link rekam jejak publikasi",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Seluruh Reviewer mempunyai kepakaran sesuai scope jurnal",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Laman Tim Editor dan Mitra Bestari dipisahkan",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Daftar Mitra Bestari tidak disajikan per nomor terbitan atau sebagai ucapan terima kasih yang dapat mengungkap penelaah artikel tertentu",
+      "category": "Tim Editor dan Mitra Bestari"
+    },
+    {
+      "name": "Kebijakan proses telaah sejawat (Peer Review Process Policy), yang menjelaskan: tipe penelaahan, kriteria penelaahan, jumlah Mitra Bestari, jangka waktu penelaahan, dan pengambilan keputusan editorial.",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Petunjuk Penulisan bagi Penulis (Author Guidelines) tersedia secara lengkap langsung pada laman jurnal, bukan hanya melalui file template. yang menjelaskan setidaknya sistematika penulisan dan referencing style.",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan Penggunaan Kecerdasan Artifisial (AI) yang mengatur kewajiban pengungkapan oleh Penulis, batasan penggunaan oleh Tim Editor, dan larangan penggunaan AI oleh Mitra Bestari dalam proses penelaahan naskah",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Etika Publikasi (Publication Ethics)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Tujuan dan ruang lingkup (aims and scope)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Jenis artikel/manuskrip (types of manuscript) yang diterima",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Frekuensi dan jadwal penerbitan (publishing schedule)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Jenis akses jurnal (open access/berlangganan)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Alamat dan informasi kontak editorial (contact), termasuk alamat fisik (physical address)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan Hak Cipta (Copyright)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan Lisensi (Licensing)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kepemilikan dan pengelolaan (ownership and management)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kriteria Kepengarangan dan Kontribusi Penulis (authorship/contributorship criteria)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan penanganan pelanggaran integritas/riset (Allegation of research misconduct)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan diskusi pascapenerbitan (post publication discussion)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan Koreksi dan Retraksi (correction and retraction)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan Pengarsipan dan Pelestarian Digital (archiving)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan Konflik Kepentingan (Conflict of Interest/Competing Interests)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Kebijakan Plagiasi (Plagiarism Policy)",
+      "category": "Kebijakan dan Pedoman Editorial"
+    },
+    {
+      "name": "Tersedia laman Biaya Penulis/Author Fees/APC",
+      "category": "Biaya dan Transparansi Layanan"
+    },
+    {
+      "name": "Seluruh biaya yang mungkin dibebankan kepada Penulis dinyatakan dengan jelas",
+      "category": "Biaya dan Transparansi Layanan"
+    },
+    {
+      "name": "Jika tidak dipungut biaya, dinyatakan secara eksplisit bahwa biaya adalah Rp0/nihil",
+      "category": "Biaya dan Transparansi Layanan"
+    },
+    {
+      "name": "Jika menggunakan layanan pihak ketiga, informasi yang relevan disampaikan secara transparan",
+      "category": "Biaya dan Transparansi Layanan"
+    },
+    {
+      "name": "Tidak terdapat informasi yang menjanjikan fast track yang menjamin penerimaan artikel",
+      "category": "Biaya dan Transparansi Layanan"
+    },
+    {
+      "name": "Tidak terdapat informasi yang menjanjikan LoA sebelum naskah benar-benar berstatus accepted",
+      "category": "Biaya dan Transparansi Layanan"
+    },
+    {
+      "name": "Halaman pertama: Judul sirahan: nama jurnal, volume, nomor bila digunakan, tahun, halaman/identitas artikel",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Halaman pertama: Lisensi akses",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Halaman pertama: Hak cipta",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Halaman pertama: Riwayat naskah/history date",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Halaman pertama: DOI",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Deklarasi: Pernyataan penggunaan AI",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Deklarasi: Pernyataan kontribusi Penulis",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Deklarasi: Pernyataan pendanaan",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Deklarasi: Pernyataan konflik kepentingan",
+      "category": "Teks Penuh (Full Text) setiap artikel memuat:"
+    },
+    {
+      "name": "Judul",
+      "category": "Substansi Mutu Artikel:"
+    },
+    {
+      "name": "Laman jurnal valid (tidak down)",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "(Butir 52 kosong pada dokumen sumber)",
+      "category": "Substansi Mutu Artikel:"
+    },
+    {
+      "name": "Nama jurnal sesuai dengan data ISSN",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Penerbit jurnal sesuai dengan data ISSN",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Akreditasi Baru: jurnal memenuhi umur minimum 3 (tiga) tahun Akreditasi Ulang: telah menerbitkan 3 (tiga) nomor terbitan terbaru sejak nomor terbitan terakhir yang dinilai",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Frekuensi penerbitan sesuai ISSN",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Terbit berkala selama 3 tahun terakhir (> 5 artikel per terbitan, > 2 terbitan per tahun)",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Akreditasi Ulang: peringkat dan masa berlaku telah dicantumkan",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Tersedia laman etika publikasi",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Tersedia informasi biaya penulis/APC, termasuk bila tidak dikenakan biaya",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "DOI aktif pada setiap artikel",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Full text tersedia pada setiap artikel terbit",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Keberagaman afiliasi Tim Editor > 2 instansi",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Keberagaman afiliasi Reviewer > 4 instansi",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Username dan password valid",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Akun yang diberikan memiliki kredensial/peran Editor",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Setiap artikel yang diterbitkan telah melalui penelaahan oleh Mitra Bestari / disertai bukti review",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    },
+    {
+      "name": "Rekam jejak Penerbit menunjukkan kepatuhan terhadap etika publikasi dan integritas akademik",
+      "category": "Tahap Pemeriksaan (Knock Down Criteria)"
+    }
+  ],
+  "weights": {
+    "A": 2,
+    "B": 22,
+    "C": 7,
+    "D": 3,
+    "E": 12,
+    "F": 34,
+    "G": 20,
+    "H": 0
+  }
+}
